@@ -1,4 +1,29 @@
 baseURL = 'https://fly-san.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'fly'
 theme = 'ananke'
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = "fly"
+  favicon = ""
+  site_logo = "static/images/cit-tum-favicon.png"
+  description = "bababooey"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-navy"
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/fly-san"
