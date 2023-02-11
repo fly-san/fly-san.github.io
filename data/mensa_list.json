@@ -1,0 +1,18 @@
+{
+    "GARCHING": {
+        "graphite": "ap.ap*-?mg*.ssid.*",
+        "menu": "mensa-garching"
+    },
+    "ARCISSTR": {
+        "graphite": "ap.ap*-?bn*.ssid.*",
+        "menu": "mensa-arcisstr"
+    },
+    "LEOPOLDSTR": {
+        "graphite": "ap.ap*-?lm*.ssid.*",
+        "menu": "mensa-leopoldstr"
+    },
+    "MARTINSRIED": {
+        "graphite": "ap.ap*-?ij*.ssid.*",
+        "menu": "mensa-martinsried"
+    }
+}
