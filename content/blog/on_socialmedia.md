@@ -1,5 +1,7 @@
 ---
 title: On social media
+date: 2023-04-18T19:30:00+01:00
+draft: false
 tags: ["opinion", "recently a friend asked"]
 ---
 
