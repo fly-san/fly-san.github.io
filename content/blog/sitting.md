@@ -2,14 +2,11 @@
 title: "Sitting on the floor"
 date: 2023-02-13T21:13:53+01:00
 draft: false
-tags: ["opinion"]
+tags: ["opinion", "recently a friend asked"]
 ---
 
-### Question:
-
+_Recently a friend asked:_
 > Hm what's the psychological explanation behind sitting on the floor being so calming
-
-### Take:
 
 I don't think there's necessarily a single explanation for that, but my first guess was that it had to do with the fact floors are generally cold, uncomfy and dirty. As opposed to a chair, you need to make a conscious decision to actually sit down on the floor, but when you embrace it you might find some comfort.
 

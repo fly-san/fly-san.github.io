@@ -22,3 +22,4 @@ These quotes were too short, or could not be attributed to a single author, to w
 >
 > -- T.S. Eliot
 
+> "Life isn't as easy as you think it is, but it's not as hard as people say it is"
