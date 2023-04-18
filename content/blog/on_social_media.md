@@ -1,9 +1,11 @@
 ---
-title: On social media
-date: 2023-04-18T19:30:00+01:00
+title: "On social media"
+date: 2023-04-18T19:38:56+02:00
 draft: false
 tags: ["opinion", "recently a friend asked"]
+
 ---
+
 
 _Recently a friend asked:_
 > Hm what's the psychological explanation behind sitting on the floor being so calming
