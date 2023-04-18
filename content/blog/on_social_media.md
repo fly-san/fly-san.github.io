@@ -8,7 +8,7 @@ tags: ["opinion", "recently a friend asked"]
 
 
 _Recently a friend asked:_
-> Hm what's the psychological explanation behind sitting on the floor being so calming
+> How can I be so low-energy when I've done almost nothing productive for the last week?
 
 
 For one, the ease of access to information and communication has transformed human life in ways no one could have predicted or imagined even just a century ago. Global real time communication means we are constantly being fed information every second of our lives, from everywhere, often at the same time. If the first industrial revolution had brought anonymity to society, the third and fourth have brought exposure: we have the ability to literally summon knowledge from all over the world, at the palm of our hands, in a matter of seconds, all the while watching your favorite netflix series. Not 50 years ago and to research even a simple thing it would literally take hours, but now, we can find essentially any piece of freely available information by just typing it into a black box. 
