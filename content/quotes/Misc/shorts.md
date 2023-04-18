@@ -8,7 +8,7 @@ These quotes were too short, or could not be attributed to a single author, to w
 
 > "The beginning of life is also the start of death"
 
-> "Life isn't as easy as you think it is, but it's not as hard as people say it is"
+> "Life isn't as hard as you think it is, but it's not as easy as people say it is"
 
 > "Circunda-te de rosas, ama, bebe e cala.
 > 
@@ -22,4 +22,3 @@ These quotes were too short, or could not be attributed to a single author, to w
 >
 > -- T.S. Eliot
 
-> "Life isn't as easy as you think it is, but it's not as hard as people say it is"
