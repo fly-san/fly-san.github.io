@@ -22,3 +22,12 @@ These quotes were too short, or could not be attributed to a single author, to w
 >
 > -- T.S. Eliot
 
+> "Some days you'll win, some days you'll *learn*."
+
+> "Safety is no accident."
+
+> "There are only two days in which you live 24 hours in your life: the day you're born and the day you die."
+
+> "Slow is smooth and smooth is fast."
+
+> "If you can't master the climb, master the fall. It's 50% of the job."
